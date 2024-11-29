@@ -1,0 +1,5 @@
+build_linux/
+plot*
+.cache/*
+build/*
+plot.txt
