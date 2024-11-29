@@ -1,5 +1,5 @@
 # metnum
-Excercises with numeric methods in C++17 that I did for some college assignments
+Excercises with numerical methods in C++17 that I did for some college assignments
 
 All methods were taken from the book "Métodos numéricos para ingenieros - Quinta Edición" by
 Steven C. Chapra & Raymond P. Canale
