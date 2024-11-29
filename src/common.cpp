@@ -1,4 +1,4 @@
-#include <metnum_common.hpp>
+#include "common.hpp"
 
 namespace metnum {
 double deriv(const Function& f, double a, double delta) {

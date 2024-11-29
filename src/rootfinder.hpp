@@ -1,6 +1,6 @@
 #pragma once
 
-#include <metnum_common.hpp>
+#include "common.hpp"
 
 namespace metnum {
 /* Input for closed root finder methods */

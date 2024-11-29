@@ -1,4 +1,4 @@
-#include <metnum_interp.hpp>
+#include "interp.hpp"
 
 namespace metnum {
 LagrangePol::LagrangePol(LagPolInput& in) {

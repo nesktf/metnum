@@ -1,10 +1,6 @@
 #pragma once
 
-#include <fstream>
-#include <filesystem>
-
-#include <metnum_common.hpp>
-#include <metnum_gnuplot.hpp>
+#include "common.hpp"
 
 namespace metnum {
 typedef std::vector<double> ODEInitValues, IncrVector;

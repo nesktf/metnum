@@ -1,4 +1,4 @@
-#include <metnum_diffeq.hpp>
+#include "diffeq.hpp"
 
 namespace metnum {
 ODESolverBase::ODESolverBase(const ODESolverInput& in) {

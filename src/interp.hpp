@@ -1,5 +1,6 @@
 #pragma once
-#include <metnum_common.hpp>
+
+#include "common.hpp"
 
 namespace metnum {
 struct LagPolInput {

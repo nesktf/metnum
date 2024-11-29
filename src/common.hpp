@@ -1,10 +1,16 @@
 #pragma once
 
+#include "gnuplot.hpp"
+
+#include <armadillo>
+
 #include <iostream>
 #include <cmath>
 #include <vector>
 #include <functional>
 
+#include <fstream>
+#include <filesystem>
 
 namespace metnum {
 typedef std::function<double(double)> Function, Equation;

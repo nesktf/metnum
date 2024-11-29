@@ -1,4 +1,4 @@
-#include <metnum_rootfinder.hpp>
+#include "rootfinder.hpp"
 
 namespace metnum {
 int rootStopIter(double a, double b, double err) {

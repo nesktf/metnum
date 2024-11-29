@@ -1,4 +1,6 @@
-#include <metnum_common.hpp>
+#pragma once
+
+#include "common.hpp"
 
 namespace metnum {
 struct IntegrInput {

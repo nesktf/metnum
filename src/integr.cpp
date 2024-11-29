@@ -1,4 +1,4 @@
-#include <metnum_integr.hpp>
+#include "integr.hpp"
 
 namespace metnum {
 IntegrBaseMult::IntegrBaseMult(IntegrInput& in) {

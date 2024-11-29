@@ -1,4 +1,4 @@
-#include <metnum_eqsolver.hpp>
+#include "eqsolver.hpp"
 
 namespace metnum {
 void systGaussSim(const EquationMat& mat, VecDouble& out) {

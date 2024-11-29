@@ -18,7 +18,7 @@ set(CMAKE_CXX_FLAGS_DEBUG "$ENV{CXXFLAGS} -Wall -Wextra -Wpedantic -O0 -g2 -ggdb
 set(CMAKE_CXX_FLAGS_RELEASE "$ENV{CXXFLAGS} -Wall -Wextra -Wpedantic -O3 -Wno-psabi")
 
 file(GLOB_RECURSE SOURCE_FILES "src/*.cpp")
-list(APPEND LIB_INCLUDE include)
+list(APPEND LIB_INCLUDE src)
 
 add_executable(${PROJECT_NAME} ${SOURCE_FILES})
 

@@ -1,8 +1,6 @@
 #pragma once
 
-#include <armadillo>
-
-#include <metnum_common.hpp>
+#include "common.hpp"
 
 namespace metnum {
 typedef std::vector<double> VecDouble;
